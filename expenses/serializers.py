@@ -22,3 +22,5 @@ class BalanceSerializer(serializers.ModelSerializer):
     class Meta:
         model = Balance
         fields = '__all__'
+
+
